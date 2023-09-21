@@ -8,5 +8,6 @@ public class Main {
         //Ex5.rodar();
         //Ex6.rodar();
         //Ex7.rodar();
+        //Ex8.rodar();
     }
 }

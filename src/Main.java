@@ -6,6 +6,7 @@ public class Main {
         //Ex2.rodar();
         //Ex4.rodar();
         //Ex5.rodar();
-        Ex6.rodar();
+        //Ex6.rodar();
+        //Ex7.rodar();
     }
 }

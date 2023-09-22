@@ -2,13 +2,11 @@ class Fatorial {
 
     public static int fat (int n) {
 
-        int fat = 1;
-
-        for(int i = 2; i <= n; i++) {
-            fat *= i;
+        if (n == 1) {
+            return 1;
         }
 
-        return fat;
+        return n * fat(n - 1);
 
     }
 

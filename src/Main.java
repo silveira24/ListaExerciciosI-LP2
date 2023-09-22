@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //Ex1.rodar();
         //Ex2.rodar();
+        //Ex3.rodar();
         //Ex4.rodar();
         //Ex5.rodar();
         //Ex6.rodar();
